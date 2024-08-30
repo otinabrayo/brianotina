@@ -20,13 +20,7 @@
 
 - 🔭 I’m currently working on [IMDB clone](https://github.com/otinabrayo/watchme)
 
-- 🌱 I’m currently learning **drango rest framework, react, docker**
-
 - 💬 Ask me about **python, javascript, react, django**
-
-- 📫 How to reach me **brianotina20@gmail.com**
-
-- ⚡ Fun fact **I love playing Chess**
 
 ## 🛠️ Skills
 
