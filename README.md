@@ -14,7 +14,7 @@
 
 📚 I also love reading books on **personal development** My favorite is **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
-✈️ I love **Playing Chess** and **Fc**.
+✈️ I love **Playing Chess** and **Fc24**.
 
 ## 🏅 Achievements
 
