@@ -1,4 +1,3 @@
-
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
@@ -19,7 +18,7 @@
 
 - 🔭 I’m currently working on [IMDB clone](https://github.com/otinabrayo/watchme)
 
-- 💬 Ask me about **python, javascript, react, django**
+- 💬 Ask me about **python, javascript, react, django, node**
 
 ## 🛠️ Skills
 
