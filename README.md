@@ -3,7 +3,6 @@
 
 ## 🚀 About Me
 
-
 🎓 I'm a skilled and motivated back-end developer specializing in creating scalable, high-performance APIs with **Python** and Django REST Framework. My expertise lies in **SQL**, and I’m passionate about optimizing **databases** for maximum efficiency.
 
 👨‍💻 To stay ahead in the field, I continuously explore modern technologies and tools that enhance my skills. Whether building **APIs** from scratch, integrating third-party services, or managing complex databases, I prioritize clean, maintainable code.
@@ -30,7 +29,6 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,7 +37,6 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
 
 ### Back-End Development
 
@@ -56,7 +53,7 @@
 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🖥️ Workspace Setup
+## 🖥️ WorkspaceSetup
 
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
